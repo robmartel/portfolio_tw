@@ -8,21 +8,17 @@ const About = () => {
           <p className="text-4xl font-bold inline border-b-4 border-gray-500">About</p>
         </div>
         <p className="text-xl mt-20">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-          deserunt illum mollitia officiis qui exercitationem perferendis neque
-          quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-          iste, totam fugiat recusandae rerum laborum perferendis molestiae
-          aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-          ab mollitia voluptatibus, a nostrum eveniet laborum!
+        I am Rob Martel, a full-stack developer. 
+         I have spent the past 18+ years as a police officer, and recently decided 
+         to follow my passion for coding.
+         I graduated from an intense full stack boot camp with Nucamp in July of 2022. I am 
+         excited to have developed skills in HTML, CSS, JavaScript, React, Redux, React Native, Node js, MongoDb and 
+         Express to name a few. 
         </p>
         <br />
         <p className="text-xl">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
-          pariatur, vel similique sint, nobis aspernatur ut praesentium
-          explicabo ipsam aliquid quasi laboriosam et culpa possimus repudiandae
-          quisquam ullam maiores ab unde. Fugiat odio mollitia nemo alias.
-          Commodi facilis atque nulla vero voluptatem explicabo. Quibusdam,
-          magni quo! Eum cupiditate debitis labore.
+          I really look forward to bringing my past experiences, along with these new skills to become a new addition to someone's team.
+
         </p>
       </div>
     </div>
